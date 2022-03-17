@@ -1,10 +1,9 @@
 #  Home Page
 
-[image](BildeTobias.jpg)
-<img src="BildeTobias.jpg" alt="">
+
+<img src="BildeTobias.jpg" alt="" style="width:30%">
 
 Welcome to my github page. This is a website with information about my github projects.
 
 
-### MarkDown Guide
-[link](help.md)
+[### MarkDown Guide!](help.md)

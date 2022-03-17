@@ -11,3 +11,6 @@ The libraries used in the project are Microbit and Neopixel. Microbit is a libra
 
 ## Light Sensor
 The main logic of the robot uses the light sensor. By using a black tape on a white background the robot uses light sensor to register if the robot is turnet to much to the side or not. The tape is run underneath the robot and on each side there is a light sensor. The black tape traps the light and stops if from returning to the sensor. With this you can create a logic where if one of the sensor stops recieving light the robot will turn in that direction and align itself back to the right path. If the robot is on the right path and none of the sensor goes off the robot will move forward.
+
+
+### [Home Page](index.md)

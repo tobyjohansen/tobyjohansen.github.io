@@ -3,3 +3,7 @@
 - [Home Page](index.md)
 - [About me](about.md)
 - [Markdown Guide](help.md)
+
+## Projects
+
+- [BitBotXL](MicroBitXl.md)
